@@ -1,0 +1,9 @@
+
+  {
+    "employeeNameErr" : " Select  your Name " , 
+    "employeeNumberErr" : "Invalid Number",
+    "NameErr" : "Please Select  Your  Name " , 
+    "DateErr" : "Please Select  task Date " , 
+    "taskTitleErr" : "Please Enter your Task Title " , 
+    "taskDiscriptionErr" : "Please Enter your Task Discription" 
+  }     
